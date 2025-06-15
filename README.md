@@ -48,7 +48,9 @@
 
 ### Через CLI
 
-> *Не поддерживается.*
+```bash
+python -m scripts.run_normalizer input.md output.md
+```
 
 ### Через Python API
 
